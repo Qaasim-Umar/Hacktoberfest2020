@@ -1,4 +1,5 @@
 # Hacktoberfest2020
+## Simple PR, Preferably first timers
 ### Fork the Repo
 ### Add your bio here
 ### Make your pull request 
